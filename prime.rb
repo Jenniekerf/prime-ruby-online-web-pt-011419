@@ -1,3 +1,3 @@
 def prime?(num)
-  num.include?()
+  num.each do |i| 
 end
